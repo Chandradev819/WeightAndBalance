@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeightAndBalance", "WeightAndBalance.csproj", "{BFA0B2A8-C295-4375-B891-3A973288BB93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightAndBalanceTest", "..\WeightAndBalanceTest\WeightAndBalanceTest.csproj", "{2B44ECB3-75EC-4EE6-8A17-45B463194CBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFA0B2A8-C295-4375-B891-3A973288BB93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA0B2A8-C295-4375-B891-3A973288BB93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA0B2A8-C295-4375-B891-3A973288BB93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA0B2A8-C295-4375-B891-3A973288BB93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B44ECB3-75EC-4EE6-8A17-45B463194CBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B44ECB3-75EC-4EE6-8A17-45B463194CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B44ECB3-75EC-4EE6-8A17-45B463194CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B44ECB3-75EC-4EE6-8A17-45B463194CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0313451B-E2EA-4603-B66A-ACEDB0B7590C}
+	EndGlobalSection
+EndGlobal
